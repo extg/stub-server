@@ -1,0 +1,6 @@
+{
+  "example.com": {
+    "/user/add": "user.js",
+    "/user/:id": "user.json"
+  }
+}
